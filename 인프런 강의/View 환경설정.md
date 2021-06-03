@@ -27,3 +27,13 @@ Hello
 - `controller` 라는 `package` 생성! 이곳에서 controller와 관련된 파일을 생성하려한다.
 - 스프링은 `Annotation 명시`가 반드시 필요하다! 따라서 `@Controller` 라는 어노테이션을 명시해줘야 기능을 사용할 수 있다.
 - `@GetMapping` : 웹 어플리케이션에서 `"hello"`가 들어오면 이 부분 매핑해준다.
+
+## 동작 환경 그림
+![동작 환경 그림](https://user-images.githubusercontent.com/68318945/120673696-5eef9a00-c4ce-11eb-9f4f-59f1580dd72e.png)
+위 그림의 구조를 보면 이해하기 쉽다. <br>
+**결론:** 컨트롤러에서 리턴 값으로 문자(`hello`)를 반환하면 뷰 리졸버(`viewResolver`)가 화면을 찾아서 처리한다.
+- 스프링 부트 템플릿엔진 기본 viewName 매핑
+- `resources::templates/` + {ViewName} + `.html`
+<br>
+
+cf) `spring-boot-devtools`라이브러리를 추가하면, `html`파일을 컴파일만 해주면 서버 재시작 없이 View 파일 변경이 가능하다. (인텔리J 컴파일 방법: 메뉴 build -> Recompile) 
