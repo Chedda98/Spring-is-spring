@@ -9,3 +9,4 @@
 - [View 환경설정](https://github.com/Chedda98/Spring-is-spring/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/View%20%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
 
 #### 스프링 웹 개발 기초
+- [정적 컨텐츠](https://github.com/Chedda98/Spring-is-spring/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88/%EC%A0%95%EC%A0%81%20%EC%BB%A8%ED%85%90%EC%B8%A0.md)
