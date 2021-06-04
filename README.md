@@ -10,3 +10,4 @@
 
 #### 스프링 웹 개발 기초
 - [정적 컨텐츠](https://github.com/Chedda98/Spring-is-spring/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88/%EC%A0%95%EC%A0%81%20%EC%BB%A8%ED%85%90%EC%B8%A0.md)
+- [MVC와 템플릿 엔진](https://github.com/Chedda98/Spring-is-spring/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88/MVC%EC%99%80%20%ED%85%9C%ED%94%8C%EB%A6%BF%20%EC%97%94%EC%A7%84.md)
